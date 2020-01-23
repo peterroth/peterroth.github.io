@@ -19,10 +19,6 @@ author:
 # Optional features
 #google_analytics_id: UA-XXXX-Y
 
-# Custom vars
-version:             1.0.0
-theme: jekyll-theme-lanyon
-
 # Plugins
 plugins: [jekyll-paginate]
 paginate: 5
