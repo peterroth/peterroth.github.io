@@ -569,3 +569,27 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/*
+ * Define social icons' design
+ */
+
+.social-share {
+  padding-bottom: 0px;
+}
+.social-share a {
+  font-size: 2rem;
+  color: #fff;
+}
+.social-share .fa-telegram-plane,
+.social-share .fa-linkedin,
+.social-share .fa-github-square {
+  font-size: 30px;
+  float: left;
+  margin-right: 20px;
+}
+.social-share .fa-telegram-plane:hover,
+.social-share .fa-linkedin:hover,
+.social-share .fa-github-square:hover {
+  color: #d7cfbe;
+}
