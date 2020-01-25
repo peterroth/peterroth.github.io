@@ -595,6 +595,7 @@ a.pagination-item:hover {
   font-size: 2rem;
   color: #fff;
 }
+.social-share .fa-route,
 .social-share .fa-telegram-plane,
 .social-share .fa-linkedin,
 .social-share .fa-github-square {
@@ -602,6 +603,7 @@ a.pagination-item:hover {
   float: left;
   margin-right: 20px;
 }
+.social-share .fa-route:hover,
 .social-share .fa-telegram-plane:hover,
 .social-share .fa-linkedin:hover,
 .social-share .fa-github-square:hover {
