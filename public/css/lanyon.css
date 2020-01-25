@@ -187,6 +187,12 @@ body {
   margin-bottom: 0;
 }
 
+.sidebar-item-footer {
+  padding: 1rem;
+  position: absolute;
+  bottom: 0;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   border-bottom: 1px solid rgba(255,255,255,.1);
