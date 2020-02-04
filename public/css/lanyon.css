@@ -615,3 +615,30 @@ a.pagination-item:hover {
 .social-share .fa-github-square:hover {
   color: #d7cfbe;
 }
+
+/*
+ * Define search bar's design
+ */
+
+.searchbar {
+  max-width: 60em;
+  border: 2px;
+}
+.search-input {
+  display: inline-block;
+  padding: .4em;
+  width: 100%;
+  color: #fff;
+  background-color: #202020;
+  border-color: #fff;
+  border-radius: .25rem;
+  font-size: 0.8em;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.results {
+  max-width: 60em;
+  border-radius: .25rem;
+  background-color: #000;
+}
