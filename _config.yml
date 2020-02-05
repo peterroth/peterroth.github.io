@@ -3,23 +3,19 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
-# Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://lanyon.getpoole.com
+# Page info
+title:               Peter's sandbox
+description:         'to develop skills, share ideas and experience'
+url:                 http://roth.su
 baseurl:             ''
 
-# About/contact
+# About me / contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
-
-# Optional features
-#google_analytics_id: UA-XXXX-Y
+  name:              Peter Roth
+  url:               http://roth.su
+  email:             peter@roth.su
 
 # Plugins
-plugins: [jekyll-paginate]
+plugins: [jekyll-feed, jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"

@@ -604,15 +604,17 @@ a.pagination-item:hover {
 .social-share .fa-route,
 .social-share .fa-telegram-plane,
 .social-share .fa-linkedin,
-.social-share .fa-github-square {
+.social-share .fa-github-square,
+.social-share .fa-rss-square {
   font-size: 1.4rem;
   float: left;
-  margin-right: 20px;
+  margin-right: 18px;
 }
 .social-share .fa-route:hover,
 .social-share .fa-telegram-plane:hover,
 .social-share .fa-linkedin:hover,
-.social-share .fa-github-square:hover {
+.social-share .fa-github-square:hover,
+.social-share .fa-rss-square:hover {
   color: #d7cfbe;
 }
 
