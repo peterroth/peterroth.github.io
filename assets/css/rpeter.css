@@ -1,0 +1,54 @@
+/*
+ * Define social icons' design
+ */
+
+.social-share {
+  padding-bottom: 0px;
+}
+.social-share a {
+  font-size: 2rem;
+  color: #fff;
+}
+.social-share .fa-route,
+.social-share .fa-telegram-plane,
+.social-share .fa-linkedin,
+.social-share .fa-github-square,
+.social-share .fa-rss-square {
+  font-size: 1.4rem;
+  float: left;
+  margin-right: 18px;
+}
+.social-share .fa-route:hover,
+.social-share .fa-telegram-plane:hover,
+.social-share .fa-linkedin:hover,
+.social-share .fa-github-square:hover,
+.social-share .fa-rss-square:hover {
+  color: #d7cfbe;
+}
+
+/*
+ * Define search bar's design
+ */
+
+.searchbar {
+  max-width: 60em;
+  border: 2px;
+}
+.search-input {
+  display: inline-block;
+  padding: .4em;
+  width: 100%;
+  color: #fff;
+  background-color: #202020;
+  border-color: #fff;
+  border-radius: .25rem;
+  font-size: 0.8em;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.results {
+  max-width: 60em;
+  border-radius: .25rem;
+  background-color: #000;
+}
