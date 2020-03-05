@@ -369,7 +369,7 @@ a.sidebar-nav-item:focus {
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
+  color: #d7cfbe;
   text-decoration: none;
 }
 .related-posts li a:hover small {
