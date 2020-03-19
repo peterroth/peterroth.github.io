@@ -62,3 +62,18 @@
   font-size: 0.82em;
   background-color: black;
 }
+
+/*
+ * Define table design
+ */
+
+table {
+  margin-bottom: .5rem;
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+tr,
+td {
+  margin-bottom: .3rem;
+}
