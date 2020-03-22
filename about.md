@@ -196,8 +196,8 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
 </table>
 
 ### Certifications
-Cloudera Certified Administrator for Apache Hadoop (CCAH), issued in September, 2015
-VMware Certified Professional: Cloud (VCPC-550), issued in October, 2014 - _expired_
+Cloudera Certified Administrator for Apache Hadoop (CCAH), issued in September, 2015  
+VMware Certified Professional: Cloud (VCPC-550), issued in October, 2014 - _expired_  
 VMware Certified Professional: Data Center Virtualization (VCP-510), issued in November, 2013 - _expired_  
 
 ### Languages
