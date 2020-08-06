@@ -25,7 +25,7 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
     </tr>
     <tr>
         <td>Dates:</td>
-        <td>July, 2015 –</td>
+        <td>July, 2015 &ndash;</td>
     </tr>
     <tr>
     	<td>Main activities and responsibilities:</td>
@@ -45,7 +45,7 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
     </tr>
     <tr>
         <td>Dates:</td>
-        <td>May, 2012 – July, 2015</td>
+        <td>May, 2012 &ndash; July, 2015</td>
     </tr>
     <tr>
     	<td>Main activities and responsibilities:</td>
@@ -65,7 +65,7 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
     </tr>
     <tr>
         <td>Dates:</td>
-        <td>November, 2010 – May, 2012</td>
+        <td>November, 2010 &ndash; May, 2012</td>
     </tr>
     <tr>
     	<td>Main activities and responsibilities:</td>
@@ -85,7 +85,7 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
     </tr>
     <tr>
         <td>Dates:</td>
-        <td>December, 2009 – October, 2010</td>
+        <td>December, 2009 &ndash; October, 2010</td>
     </tr>
     <tr>
         <td>Main activities and responsibilities:</td>
@@ -105,7 +105,7 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
     </tr>
     <tr>
         <td>Dates:</td>
-        <td>October, 2008 – February, 2009</td>
+        <td>October, 2008 &ndash; February, 2009</td>
     </tr>
     <tr>
         <td>Main activities and responsibilities:</td>
@@ -125,7 +125,7 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
     </tr>
     <tr>
         <td>Dates:</td>
-        <td>July, 2006 – September, 2008</td>
+        <td>July, 2006 &ndash; September, 2008</td>
     </tr>
     <tr>
         <td>Main activities and responsibilities:</td>
@@ -151,7 +151,7 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
     </tr>
     <tr>
         <td>Period:</td>
-        <td>September, 2004 - June, 2006</td>
+        <td>September, 2004 &ndash; June, 2006</td>
     </tr>
     <tr>
         <td>Main course:</td>
@@ -167,7 +167,7 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
     </tr>
     <tr>
         <td>Period:</td>
-        <td>September, 2004 - June, 2006</td>
+        <td>September, 2004 &ndash; June, 2006</td>
     </tr>
     <tr>
         <td>Main course:</td>
@@ -183,7 +183,7 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
     </tr>
     <tr>
         <td>Period:</td>
-        <td>September, 2000 - June, 2004</td>
+        <td>September, 2000 &ndash; June, 2004</td>
     </tr>
     <tr>
         <td>Main course:</td>
