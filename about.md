@@ -2,6 +2,7 @@
 layout: page
 title: About me
 ---
+<img src="/assets/pic/peter.jpg" align="right"/>
 This page carries my up-to-date CV with the possible ways to contact me.
 
 Date of birth: September, 1985  
