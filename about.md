@@ -19,6 +19,26 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
 <table>
   <col width="28%">
   <col width="72%">
+  <tr>
+        <td>Occupation or position held:</td>
+        <td>Software Engineer - Hadoop</td>
+    </tr>
+    <tr>
+        <td>Dates:</td>
+        <td>May 2020 &ndash;</td>
+    </tr>
+    <tr>
+        <td>Main activities and responsibilities:</td>
+        <td>Sustaining and maintaining released versions of legacy Cloudera and legacy Hortonworks Hadoop, backporting fixes of bugs and issues.</td>
+    </tr>
+    <tr>
+        <td>Name and address of Employer:</td>
+        <td><a href="https://www.cloudera.com/" target="_blank">Cloudera</a>; Szechenyi Istvan square 7-8, Budapest, 1054, Hungary</td>
+    </tr>
+    <tr>
+        <td style="border-bottom: 1px solid #404040;">Type of business or sector:</td>
+        <td style="border-bottom: 1px solid #404040;">Software development</td>
+    </tr>
     <tr>
         <td>Occupation or position held:</td>
         <td>Customer Operations Engineer</td>
