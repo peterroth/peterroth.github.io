@@ -5,6 +5,7 @@ tags: sport run
 There are a lot of questions on different forums if it worth to buy an HR monitoring chest strap or the wrist-based is enough. My answer usually depends on two factors:  
 1. Do you have some extra money to buy the strap?  
 2. How accurate data do you want to get about your training?  
+
 If the answer is yes and accurate, my reply is: yes, definitely.
 
 ### How they work?
