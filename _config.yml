@@ -6,13 +6,13 @@ permalink:           pretty
 # Page info
 title:               Peter's sandbox
 description:         'to develop skills, share ideas and experience'
-url:                 http://roth.su
+url:                 https://roth.su
 baseurl:             ''
 
 # About me / contact
 author:
   name:              Peter Roth
-  url:               http://roth.su
+  url:               https://roth.su
   email:             peter@roth.su
 
 # Plugins
