@@ -16,6 +16,6 @@ author:
   email:             peter@roth.su
 
 # Plugins
-plugins: [jekyll-feed, jekyll-paginate]
+plugins: [jekyll-feed, jekyll-paginate, jekyll-sitemap]
 paginate: 5
 paginate_path: "page:num"
