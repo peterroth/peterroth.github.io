@@ -26,7 +26,7 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
     </tr>
     <tr>
         <td>Dates:</td>
-        <td>May 2020 &ndash;</td>
+        <td>May, 2020 &ndash;</td>
     </tr>
     <tr>
         <td>Main activities and responsibilities:</td>
@@ -46,7 +46,7 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
     </tr>
     <tr>
         <td>Dates:</td>
-        <td>July, 2015 &ndash;</td>
+        <td>July, 2015 &ndash; May, 2020</td>
     </tr>
     <tr>
     	<td>Main activities and responsibilities:</td>
