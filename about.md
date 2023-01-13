@@ -6,7 +6,8 @@ title: About me
 This page carries my up-to-date CV with the possible ways to contact me.
 
 Date of birth: September, 1985  
-Place of birth: Szekesfehervar, Hungary  
+Place of birth: Szekesfehervar, Fejer, Hungary  
+Address: Biatorbagy, Pest, Hungary  
 Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth/)  
 
 <style>
