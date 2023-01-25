@@ -23,15 +23,15 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
   <col width="72%">
   <tr>
         <td>Occupation or position held:</td>
-        <td>Software Engineer - Hadoop</td>
+        <td>Software Engineer - Testing</td>
     </tr>
     <tr>
         <td>Dates:</td>
-        <td>May, 2020 &ndash;</td>
+        <td>May, 2020 &ndash; Jan, 2023</td>
     </tr>
     <tr>
         <td>Main activities and responsibilities:</td>
-        <td>Sustaining and maintaining released versions of legacy Cloudera and legacy Hortonworks Hadoop, backporting fixes of bugs and issues.</td>
+        <td>Sustaining and maintaining released versions of legacy Cloudera and legacy Hortonworks Hadoop components, backporting fixes of bugs and issues from upstream. Continuously testing the product before their initial public release.</td>
     </tr>
     <tr>
         <td>Name and address of Employer:</td>
@@ -51,7 +51,7 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
     </tr>
     <tr>
     	<td>Main activities and responsibilities:</td>
-    	<td>Supporting customers with Cloudera Distribution Including Apache Hadoop to achieve their goals and resolve difficulties</td>
+    	<td>Supporting customers with Cloudera Distribution Including Apache Hadoop to achieve their goals and resolve difficulties.</td>
     </tr>
     <tr>
     	<td>Name and address of Employer:</td>
