@@ -22,6 +22,26 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
   <col width="28%">
   <col width="72%">
   <tr>
+    <td>Occupation or position held:</td>
+    <td>Cloud DevOps Engineer</td>
+  </tr>
+  <tr>
+    <td>Dates:</td>
+    <td>Jan, 2023 &ndash; </td>
+  </tr>
+  <tr>
+    <td>Main activities and responsibilities:</td>
+    <td>Providing the platform for the company's product in the cloud, using container orchestration and related software tools.</td>
+  </tr>
+  <tr>
+    <td>Name and address of Employer:</td>
+    <td><a href="https://nng.com/" target="_blank">NNG Llc</a>; Szepvolgyi Street 35-37, Budapest, 1037, Hungary</td>
+  </tr>
+  <tr>
+    <td style="border-bottom: 1px solid #404040;">Type of business or sector:</td>
+    <td style="border-bottom: 1px solid #404040;">Cloud computing</td>
+  </tr>
+  <tr>
         <td>Occupation or position held:</td>
         <td>Software Engineer - Testing</td>
     </tr>
