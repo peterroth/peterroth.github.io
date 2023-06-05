@@ -12,7 +12,8 @@ Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisi
   
 <style>
   table, tr, td {
-    align="left";
+    align: left;
+    vertical-align: top;
     font-size: .8rem;
   }
 </style>
