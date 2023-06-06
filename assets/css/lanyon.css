@@ -111,7 +111,7 @@ body {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 1px solid #ffcc00;
+  border-bottom: 1px solid #3399cc;
 }
 .masthead-title {
   margin-top: 0;
@@ -124,7 +124,7 @@ body {
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #d7cfbe;
+  color: #e9f1fa;
   letter-spacing: 0;
 }
 
@@ -236,7 +236,7 @@ a.sidebar-nav-item:focus {
   left: 1rem;
   display: block;
   padding: .25rem .75rem;
-  color: #ffcc00;
+  color: #3399cc;
   background-color: #252525;
   border-radius: .25rem;
   cursor: pointer;
@@ -247,10 +247,10 @@ a.sidebar-nav-item:focus {
   width: 1rem;
   height: .75rem;
   content: "";
-  background-image: -webkit-linear-gradient(to bottom, #ffcc00, #ffcc00 20%, #252525 20%, #252525 40%, #ffcc00 40%, #ffcc00 60%, #252525 60%, #252525 80%, #ffcc00 80%, #ffcc00 100%);
-  background-image:    -moz-linear-gradient(to bottom, #ffcc00, #ffcc00 20%, #252525 20%, #252525 40%, #ffcc00 40%, #ffcc00 60%, #252525 60%, #252525 80%, #ffcc00 80%, #ffcc00 100%);
-  background-image:     -ms-linear-gradient(to bottom, #ffcc00, #ffcc00 20%, #252525 20%, #252525 40%, #ffcc00 40%, #ffcc00 60%, #252525 60%, #252525 80%, #ffcc00 80%, #ffcc00 100%);
-  background-image:         linear-gradient(to bottom, #ffcc00, #ffcc00 20%, #252525 20%, #252525 40%, #ffcc00 40%, #ffcc00 60%, #252525 60%, #252525 80%, #ffcc00 80%, #ffcc00 100%);
+  background-image: -webkit-linear-gradient(to bottom, #3399cc, #3399cc 20%, #252525 20%, #252525 40%, #3399cc 40%, #3399cc 60%, #252525 60%, #252525 80%, #3399cc 80%, #3399cc 100%);
+  background-image:    -moz-linear-gradient(to bottom, #3399cc, #3399cc 20%, #252525 20%, #252525 40%, #3399cc 40%, #3399cc 60%, #252525 60%, #252525 80%, #3399cc 80%, #3399cc 100%);
+  background-image:     -ms-linear-gradient(to bottom, #3399cc, #3399cc 20%, #252525 20%, #252525 40%, #3399cc 40%, #3399cc 60%, #252525 60%, #252525 80%, #3399cc 80%, #3399cc 100%);
+  background-image:         linear-gradient(to bottom, #3399cc, #3399cc 20%, #252525 20%, #252525 40%, #3399cc 40%, #3399cc 60%, #252525 60%, #252525 80%, #3399cc 80%, #3399cc 100%);
 }
 
 .sidebar-toggle:active,
@@ -369,7 +369,7 @@ a.sidebar-nav-item:focus {
   color: #999;
 }
 .related-posts li a:hover {
-  color: #d7cfbe;
+  color: #e9f1fa;
   text-decoration: none;
 }
 .related-posts li a:hover small {
