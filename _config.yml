@@ -1,19 +1,20 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:    pretty
 
 # Page info
-title:               Peter's sandbox
-description:         'to develop skills, share ideas and experience'
-url:                 https://roth.su
-baseurl:             ''
+title:        Peter's sandbox
+description:  'to develop skills, share ideas and experience'
+domain:       roth.su
+url:          https://roth.su
+baseurl:      ''
 
 # About me / contact
 author:
-  name:              Peter Roth
-  url:               https://roth.su
-  email:             peter@roth.su
+  name:       Peter Roth
+  url:        https://roth.su
+  email:      peter@roth.su
 
 # Plugins
 plugins: [jekyll-feed, jekyll-paginate, jekyll-sitemap]
