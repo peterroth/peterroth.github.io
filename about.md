@@ -8,232 +8,127 @@ This page carries my up-to-date CV with the possible ways to contact me.
 Date of birth: September, 1985  
 Place of birth: Szekesfehervar, Fejer, Hungary  
 Address: Biatorbagy, Pest, Hungary  
-Contact: e-mail: peter(a)roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth/)  
+Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth/)  
   
 <style>
   table, tr, td {
     align: left;
-    vertical-align: top;
     font-size: .8rem;
   }
 </style>
-  
+
 ### Work experience
 <table>
-  <col width="28%">
-  <col width="72%">
+  <col width="80%">
+  <col width="20%">
   <tr>
-    <td>Occupation or position held:</td>
-    <td>Site Reliability Engineer</td>
+    <td><a href="https://nng.com/" target="_blank">NNG</a></td>
   </tr>
   <tr>
-    <td>Dates:</td>
+    <td><i>Site Reliability Engineer</i></td>
     <td>Jan, 2023 &ndash; </td>
   </tr>
   <tr>
-    <td>Main activities and responsibilities:</td>
-    <td>Providing the platform for the company's product using public cloud with the help of container orchestration, infrastructure as code, monitoring services and related software tools.</td>
+    <td style="border-bottom: 10px solid #252525;">Provide the platform for the company's product using public cloud with the help of container orchestration, infrastructure as code, monitoring services and related software tools.</td>
   </tr>
   <tr>
-    <td>Name and address of Employer:</td>
-    <td><a href="https://nng.com/" target="_blank">NNG Llc</a>; Szepvolgyi Street 35-37, Budapest, 1037, Hungary</td>
+    <td><a href="https://www.cloudera.com/" target="_blank">Cloudera</a></td>
   </tr>
   <tr>
-    <td style="border-bottom: 1px solid #404040;">Type of business or sector:</td>
-    <td style="border-bottom: 1px solid #404040;">Cloud computing</td>
-  </tr>
-  <tr>
-    <td>Occupation or position held:</td>
-    <td>Software Engineer - Testing</td>
-  </tr>
-  <tr>
-    <td>Dates:</td>
+    <td><i>Software Engineer - Testing</i></td>
     <td>May, 2020 &ndash; Jan, 2023</td>
   </tr>
   <tr>
-    <td>Main activities and responsibilities:</td>
-    <td>Sustaining and maintaining released versions of legacy Cloudera and legacy Hortonworks Hadoop components, backporting fixes of bugs and issues from upstream. Continuously testing the product before their initial public release.</td>
+    <td style="border-bottom: 10px solid #252525;">Sustain and maintain released versions of legacy Cloudera and legacy Hortonworks Hadoop components, backport fixes of bugs and issues from upstream. Continuously test the product before their initial public release.</td>
   </tr>
   <tr>
-    <td>Name and address of Employer:</td>
-    <td><a href="https://www.cloudera.com/" target="_blank">Cloudera</a>; Szechenyi Istvan square 7-8, Budapest, 1054, Hungary</td>
-  </tr>
-  <tr>
-    <td style="border-bottom: 1px solid #404040;">Type of business or sector:</td>
-    <td style="border-bottom: 1px solid #404040;">Software development</td>
-  </tr>
-  <tr>
-    <td>Occupation or position held:</td>
-    <td>Customer Operations Engineer</td>
-  </tr>
-  <tr>
-    <td>Dates:</td>
+    <td><i>Customer Operations Engineer</i></td>
     <td>July, 2015 &ndash; May, 2020</td>
   </tr>
   <tr>
-    <td>Main activities and responsibilities:</td>
-    <td>Supporting customers with Cloudera Distribution Including Apache Hadoop to achieve their goals and resolve difficulties.</td>
+    <td style="border-bottom: 10px solid #252525;">Support customers with Cloudera Distribution Including Apache Hadoop to resolve difficulties and overcome obstacles to achieve their goals.</td>
   </tr>
   <tr>
-    <td>Name and address of Employer:</td>
-    <td><a href="https://www.cloudera.com/" target="_blank">Cloudera</a>; Szechenyi Istvan square 7-8, Budapest, 1054, Hungary</td>
+    <td><a href="https://www.it-services.hu/" target="_blank">IT Services Hungary</a></td>
   </tr>
   <tr>
-    <td style="border-bottom: 1px solid #404040;">Type of business or sector:</td>
-    <td style="border-bottom: 1px solid #404040;">Big Data administration</td>
-  </tr>
-  <tr>
-    <td>Occupation or position held:</td>
-    <td>VMware System Administrator</td>
-  </tr>
-  <tr>
-    <td>Dates:</td>
+    <td><i>VMware System Administrator</i></td>
     <td>May, 2012 &ndash; July, 2015</td>
   </tr>
   <tr>
-    <td>Main activities and responsibilities:</td>
-    <td>Maintaining, configuring and handling physical and virtual servers</td>
+    <td style="border-bottom: 10px solid #252525;">Administrate, configure and handle physical servers running in highly available environment, maintain the provided virtual machines.</td>
   </tr>
   <tr>
-    <td>Name and address of Employer:</td>
-    <td><a href="https://www.it-services.hu/" target="_blank">IT Services Hungary</a>; Budapest, Toth Kalman street 2, 1097, Hungary</td>
+    <td><i>Application Administrator</i></td>
+    <td>Nov, 2010 &ndash; May, 2012</td>
   </tr>
   <tr>
-    <td style="border-bottom: 1px solid #404040;">Type of business or sector:</td>
-    <td style="border-bottom: 1px solid #404040;"><a href="https://en.wikipedia.org/wiki/Platform_as_a_service" target="_blank">PaaS</a> administration</td>
+    <td style="border-bottom: 10px solid #252525;">Monitor, maintain and handle JBoss and Java server applications running on RedHat Enterprise Linux.</td>
   </tr>
   <tr>
-    <td>Occupation or position held:</td>
-    <td>Application Administrator</td>
+    <td><a href="https://www.kabel-braunau.tv/" target="_blank">Kabel Braunau GmbH</a></td>
   </tr>
   <tr>
-    <td>Dates:</td>
-    <td>November, 2010 &ndash; May, 2012</td>
+    <td><i>Network- and System administration</i></td>
+    <td>Dec, 2009 &ndash; Oct, 2010</td>
   </tr>
   <tr>
-    <td>Main activities and responsibilities:</td>
-    <td>Maintenance, administration and handling server applications</td>
+    <td style="border-bottom: 10px solid #252525;">Monitor and administrate inner- and provided networks, manage and maintain server and client operation systems.</td>
   </tr>
   <tr>
-    <td>Name and address of Employer:</td>
-    <td><a href="https://www.it-services.hu/" target="_blank">IT Services Hungary</a>; Budapest, Toth Kalman street 2, 1097, Hungary</td>
+    <td><a href="http://www.kisten.at" target="_blank">Steinberger GmbH</a></td>
   </tr>
   <tr>
-    <td style="border-bottom: 1px solid #404040;">Type of business or sector:</td>
-    <td style="border-bottom: 1px solid #404040;">Administration</td>
+    <td><i>Carpenter's apprentice</i></td>
+    <td>Oct, 2008 &ndash; Feb, 2009</td>
   </tr>
   <tr>
-    <td>Occupation or position held:</td>
-    <td>Network- and System administration</td>
+    <td style="border-bottom: 10px solid #252525;">Produce pallets and chests for customers.</td>
   </tr>
   <tr>
-    <td>Dates:</td>
-    <td>December, 2009 &ndash; October, 2010</td>
+    <td><a href="https://www.ibm.com/hu-en" target="_blank">IBM Client Innovation Center</a></td>
   </tr>
   <tr>
-    <td>Main activities and responsibilities:</td>
-    <td>Administration of inner- and provided networks, handling and managing operation system, server and network problems</td>
+    <td><i>IT System supervisor</i></td>
+    <td>July, 2006 &ndash; Sept, 2008</td>
   </tr>
   <tr>
-    <td>Name and address of Employer:</td>
-    <td><a href="https://www.kabel-braunau.tv/" target="_blank">Kabel Braunau GmbH</a>; Braunau am Inn, Industriezeile 54, 5280, Austria</td>
-  </tr>
-  <tr>
-    <td style="border-bottom: 1px solid #404040;">Type of business or sector:</td>
-    <td style="border-bottom: 1px solid #404040;">Network administration</td>
-  </tr>
-  <tr>
-    <td>Occupation or position held:</td>
-    <td>Carpenter's apprentice</td>
-  </tr>
-  <tr>
-    <td>Dates:</td>
-    <td>October, 2008 &ndash; February, 2009</td>
-  </tr>
-  <tr>
-    <td>Main activities and responsibilities:</td>
-    <td>Production of pallets and chests</td>
-  </tr>
-  <tr>
-    <td>Name and address of Employer:</td>
-    <td><a href="www.kisten.at" target="_blank">Steinberger GmbH</a>; Höhnhart, Haging 13, 5251, Austria</td>
-  </tr>
-  <tr>
-    <td style="border-bottom: 1px solid #404040;">Type of business or sector:</td>
-    <td style="border-bottom: 1px solid #404040;">Carpenter</td>
-  </tr>
-  <tr>
-    <td>Occupation or position held:</td>
-    <td>IT System supervisor</td>
-  </tr>
-  <tr>
-    <td>Dates:</td>
-    <td>July, 2006 &ndash; September, 2008</td>
-  </tr>
-  <tr>
-    <td>Main activities and responsibilities:</td>
-    <td>Scheduling and maintaining daily backups and restores</td>
-  </tr>
-  <tr>
-    <td>Name and address of Employer:</td>
-    <td><a href="https://www.ibm.com/hu-en" target="_blank">IBM Client Innovation Center</a>; Szekesfehervar, Videoton Industrial Park, 8000, Hungary</td>
-  </tr>
-  <tr>
-    <td>Type of business or sector:</td>
-    <td>Tivoli Storage administration</td>
+    <td>Schedule and maintain daily backups and restores for varioius internal projects on different tape- and disk storage devices.</td>
   </tr>
 </table>
 
 ### Education
 <table>
-  <col width="26%">
-  <col width="74%">
+  <col width="80%">
+  <col width="20%">
   <tr>
-    <td>Qualification:</td>
-    <td>Administration and maintenance of IT-networks</td>
+    <td><i>Administration and maintenance of IT-networks</i></td>
+    <td>Sept, 2004 &ndash; June, 2006</td>
   </tr>
   <tr>
-    <td>Period:</td>
-    <td>September, 2004 &ndash; June, 2006</td>
-  </tr>
-  <tr>
-    <td>Main course:</td>
     <td>Planning and implementation of IT-networks, problem determination and handling IT-networks</td>
   </tr>
   <tr>
-    <td style="border-bottom: 1px solid #404040;">Name and address of school:</td>
-    <td style="border-bottom: 1px solid #404040;">Perczel Mor Secondary School, Mor</td>
+    <td style="border-bottom: 10px solid #252525;">Perczel Mor Secondary School, Mor</td>
   </tr>
   <tr>
-    <td>Qualification:</td>
-    <td>System administration</td>
+    <td><i>System administration</i></td>
+    <td>Sept, 2004 &ndash; June, 2006</td>
   </tr>
   <tr>
-    <td>Period:</td>
-    <td>September, 2004 &ndash; June, 2006</td>
-  </tr>
-  <tr>
-    <td>Main course:</td>
     <td>Windows administration, Linux administration, webservers, fileshares with Samba</td>
   </tr>
   <tr>
-    <td style="border-bottom: 1px solid #404040;">Name and address of school:</td>
-    <td style="border-bottom: 1px solid #404040;">Perczel Mor Secondary School, Mor</td>
+    <td style="border-bottom: 10px solid #252525;">Perczel Mor Secondary School, Mor</td>
   </tr>
   <tr>
-    <td>Qualification:</td>
-    <td>Computer science engineer with graduation</td>
+    <td><i>Computer science engineer with graduation</i></td>
+    <td>Sept, 2000 &ndash; June, 2004</td>
   </tr>
   <tr>
-    <td>Period:</td>
-    <td>September, 2000 &ndash; June, 2004</td>
-  </tr>
-  <tr>
-    <td>Main course:</td>
     <td>Basics of system administration and IT-networks, HTML webpages, E-mail servers</td>
   </tr>
   <tr>
-    <td>Name and address of school:</td>
     <td>Perczel Mor Secondary School, Mor</td>
   </tr>
 </table>
