@@ -29,7 +29,7 @@ Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth
     <td>Jan, 2023 &ndash; </td>
   </tr>
   <tr>
-    <td style="border-bottom: 10px solid #252525;">Provide the platform for the company's product using public cloud with the help of container orchestration, infrastructure as code, monitoring services and related software tools.</td>
+    <td style="border-bottom: 10px solid transparent;">Provide the platform for the company's product using public cloud with the help of container orchestration, infrastructure as code, monitoring services and related software tools.</td>
   </tr>
   <tr>
     <td><a href="https://www.cloudera.com/" target="_blank">Cloudera</a></td>
@@ -39,14 +39,14 @@ Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth
     <td>May, 2020 &ndash; Jan, 2023</td>
   </tr>
   <tr>
-    <td style="border-bottom: 10px solid #252525;">Sustain and maintain released versions of legacy Cloudera and legacy Hortonworks Hadoop components, backport fixes of bugs and issues from upstream. Continuously test the product before their initial public release.</td>
+    <td style="border-bottom: 10px solid transparent;">Sustain and maintain released versions of legacy Cloudera and legacy Hortonworks Hadoop components, backport fixes of bugs and issues from upstream. Continuously test the product before their initial public release.</td>
   </tr>
   <tr>
     <td><i>Customer Operations Engineer</i></td>
     <td>July, 2015 &ndash; May, 2020</td>
   </tr>
   <tr>
-    <td style="border-bottom: 10px solid #252525;">Support customers with Cloudera Distribution Including Apache Hadoop to resolve difficulties and overcome obstacles to achieve their goals.</td>
+    <td style="border-bottom: 10px solid transparent;">Support customers with Cloudera Distribution Including Apache Hadoop to resolve difficulties and overcome obstacles to achieve their goals.</td>
   </tr>
   <tr>
     <td><a href="https://www.it-services.hu/" target="_blank">IT Services Hungary</a></td>
@@ -56,14 +56,14 @@ Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth
     <td>May, 2012 &ndash; July, 2015</td>
   </tr>
   <tr>
-    <td style="border-bottom: 10px solid #252525;">Administrate, configure and handle physical servers running in highly available environment, maintain the provided virtual machines.</td>
+    <td style="border-bottom: 10px solid transparent;">Administrate, configure and handle physical servers running in highly available environment, maintain the provided virtual machines.</td>
   </tr>
   <tr>
     <td><i>Application Administrator</i></td>
     <td>Nov, 2010 &ndash; May, 2012</td>
   </tr>
   <tr>
-    <td style="border-bottom: 10px solid #252525;">Monitor, maintain and handle JBoss and Java server applications running on RedHat Enterprise Linux.</td>
+    <td style="border-bottom: 10px solid transparent;">Monitor, maintain and handle JBoss and Java server applications running on RedHat Enterprise Linux.</td>
   </tr>
   <tr>
     <td><a href="https://www.kabel-braunau.tv/" target="_blank">Kabel Braunau GmbH</a></td>
@@ -73,7 +73,7 @@ Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth
     <td>Dec, 2009 &ndash; Oct, 2010</td>
   </tr>
   <tr>
-    <td style="border-bottom: 10px solid #252525;">Monitor and administrate inner- and provided networks, manage and maintain server and client operation systems.</td>
+    <td style="border-bottom: 10px solid transparent;">Monitor and administrate inner- and provided networks, manage and maintain server and client operation systems.</td>
   </tr>
   <tr>
     <td><a href="http://www.kisten.at" target="_blank">Steinberger GmbH</a></td>
@@ -83,7 +83,7 @@ Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth
     <td>Oct, 2008 &ndash; Feb, 2009</td>
   </tr>
   <tr>
-    <td style="border-bottom: 10px solid #252525;">Produce pallets and chests for customers.</td>
+    <td style="border-bottom: 10px solid transparent;">Produce pallets and chests for customers.</td>
   </tr>
   <tr>
     <td><a href="https://www.ibm.com/hu-en" target="_blank">IBM Client Innovation Center</a></td>
@@ -109,7 +109,7 @@ Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth
     <td>Planning and implementation of IT-networks, problem determination and handling IT-networks</td>
   </tr>
   <tr>
-    <td style="border-bottom: 10px solid #252525;">Perczel Mor Secondary School, Mor</td>
+    <td style="border-bottom: 10px solid transparent;">Perczel Mor Secondary School, Mor</td>
   </tr>
   <tr>
     <td><i>System administration</i></td>
@@ -119,7 +119,7 @@ Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth
     <td>Windows administration, Linux administration, webservers, fileshares with Samba</td>
   </tr>
   <tr>
-    <td style="border-bottom: 10px solid #252525;">Perczel Mor Secondary School, Mor</td>
+    <td style="border-bottom: 10px solid transparent;">Perczel Mor Secondary School, Mor</td>
   </tr>
   <tr>
     <td><i>Computer science engineer with graduation</i></td>
