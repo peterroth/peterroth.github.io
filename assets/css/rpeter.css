@@ -77,3 +77,16 @@ tr,
 td {
   margin-bottom: .3rem;
 }
+
+/*
+ * Define custom code style
+ */
+
+code {
+  padding: .25em .5em;
+  font-size: 90%;
+  color: #e9f1fa;
+  background-color: #565656;
+  border-radius: 3px;
+} 
+
