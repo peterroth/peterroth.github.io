@@ -144,7 +144,7 @@ English: active, professional and daily conversation level
 German: passive, daily conversation level  
 
 ### Projects
-Admin of [OpenShift](https://www.reddit.com/r/openshift/) subreddit: I grabbed the helm and steer RedHat's autoscaling, K8s based software's Reddit community.
+Admin of [OpenShift](https://www.reddit.com/r/openshift/) subreddit: I grabbed the helm and steer RedHat's autoscaling, K8s based software's Reddit community.  
 Admin of [Polar fitness](https://www.reddit.com/r/Polarfitness/) subreddit: leading the worldwide known sport and fitness device manufacturer's (unofficial) Reddit page.  
 [Blokada](https://github.com/blokadaorg/blokada): A free and open source ad- and tracker blocker with 250.000+ users around the globe.  
 Havoc OS maintainer for [Xiaomi Redmi 4 Prime](https://github.com/peterroth/android_device_xiaomi_markw): an Android based custom system with tweaks and addons.  
