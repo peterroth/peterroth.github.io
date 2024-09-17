@@ -22,11 +22,21 @@ Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth
   <col width="80%">
   <col width="20%">
   <tr>
+    <td><a href="https://www.otpbank.hu/" target="_blank">OTP Bank Hungary</a></td>
+  </tr>
+  <tr>
+    <td><i>Cloud Application Administrator</i></td>
+    <td>July, 2024 &ndash; </td>
+  </tr>
+  <tr>
+    <td style="border-bottom: 10px solid transparent;">Monitor and administrate the bank's internet- and mobilebanking application to ensure its reliable and continuous availability. Analyse complex, multi-layer problems in a distributed environment.</td>
+  </tr>
+  <tr>
     <td><a href="https://nng.com/" target="_blank">NNG</a></td>
   </tr>
   <tr>
     <td><i>Site Reliability Engineer</i></td>
-    <td>Jan, 2023 &ndash; </td>
+    <td>Jan, 2023 &ndash; July, 2024</td>
   </tr>
   <tr>
     <td style="border-bottom: 10px solid transparent;">Provide the platform for the company's product using public cloud with the help of container orchestration, infrastructure as code, monitoring services and related software tools.</td>
