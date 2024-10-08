@@ -22,7 +22,7 @@ Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth
   <col width="80%">
   <col width="20%">
   <tr>
-    <td><a href="https://www.otpbank.hu/" target="_blank">OTP Bank Hungary</a></td>
+    <td><a href="https://virgo.hu/" target="_blank">Virgo systems</a></td>
   </tr>
   <tr>
     <td><i>Cloud Application Administrator</i></td>
