@@ -29,7 +29,7 @@ Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth
     <td>July, 2024 &ndash; </td>
   </tr>
   <tr>
-    <td style="border-bottom: 10px solid transparent;">Monitor and administrate the bank's internet- and mobilebanking application to ensure its reliable and continuous availability. Analyse complex, multi-layer problems in a distributed environment.</td>
+    <td style="border-bottom: 10px solid transparent;">Monitor and administrate Hungary's biggest bank's internet- and mobilebanking application to ensure its reliable and continuous availability. Analyse complex, multi-layer problems in a distributed environment.</td>
   </tr>
   <tr>
     <td><a href="https://nng.com/" target="_blank">NNG</a></td>
