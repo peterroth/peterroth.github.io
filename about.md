@@ -25,7 +25,7 @@ Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth
     <td><a href="https://virgo.hu/" target="_blank">Virgo systems</a></td>
   </tr>
   <tr>
-    <td><i>Cloud Application Administrator</i></td>
+    <td><i>Cloud Native Application Administrator</i></td>
     <td>July, 2024 &ndash; </td>
   </tr>
   <tr>
