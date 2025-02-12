@@ -22,11 +22,21 @@ Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth
   <col width="80%">
   <col width="20%">
   <tr>
+    <td><a href="https://www.epam.com/" target="_blank">EPAM Systems</a></td>
+  </tr>
+  <tr>
+    <td><i>DevOps Engineer</i></td>
+    <td>Jan, 2025 &ndash; </td>
+  </tr>
+  <tr>
+    <td style="border-bottom: 10px solid transparent;">Assisting in DevOps related tasks in various projects.</td>
+  </tr>
+  <tr>
     <td><a href="https://virgo.hu/" target="_blank">Virgo systems</a></td>
   </tr>
   <tr>
     <td><i>Cloud Native Application Administrator</i></td>
-    <td>July, 2024 &ndash; </td>
+    <td>July, 2024 &ndash; Jan, 2025</td>
   </tr>
   <tr>
     <td style="border-bottom: 10px solid transparent;">Monitor and administrate Hungary's biggest bank's internet- and mobilebanking application to ensure its reliable and continuous availability. Analyse complex, multi-layer problems in a distributed environment.</td>
