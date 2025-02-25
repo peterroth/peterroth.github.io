@@ -49,7 +49,7 @@ Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth
     <td>Jan, 2023 &ndash; July, 2024</td>
   </tr>
   <tr>
-    <td style="border-bottom: 10px solid transparent;">Provide the platform for the company's product using public cloud with the help of container orchestration, infrastructure as code, monitoring services and related software tools.</td>
+    <td style="border-bottom: 10px solid transparent;">Provide the platform for the company's product using public cloud with the help of container orchestration, infrastructure as code, monitoring services and related software tools. Automate processing incoming map data to reduce time and cost.</td>
   </tr>
   <tr>
     <td><a href="https://www.cloudera.com/" target="_blank">Cloudera</a></td>
@@ -66,7 +66,7 @@ Contact: peter@roth.su or [LinkedIn](https://www.linkedin.com/in/thisispeterroth
     <td>July, 2015 &ndash; May, 2020</td>
   </tr>
   <tr>
-    <td style="border-bottom: 10px solid transparent;">Support customers with Cloudera Distribution Including Apache Hadoop to resolve difficulties and overcome obstacles to achieve their goals.</td>
+    <td style="border-bottom: 10px solid transparent;">Support customers with Cloudera Distribution Including Apache Hadoop to resolve difficulties and overcome obstacles to achieve their goals. Organise internal trainings to deliver better customer experience by allowing team members to stretch their knowledge across functions and organisations. Conduct interviews, facilitate the onboarding process, and provide mentorship to new colleagues.</td>
   </tr>
   <tr>
     <td><a href="https://www.it-services.hu/" target="_blank">IT Services Hungary</a></td>
